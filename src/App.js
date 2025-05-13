@@ -6,6 +6,7 @@ function App() {
       <h1>This is my Portfolio Website</h1>
       <br /> 
       <p>Thankyou for visiting to my Website!</p>
+      <p>Heya! This is Palak Upadhyay</p>
     </div>
   );
 }
