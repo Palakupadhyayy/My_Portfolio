@@ -1,0 +1,14 @@
+* {
+  background: rgb(12, 239, 255);
+}
+
+.title h1 {
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.title p {
+  font-size: 18px;
+  text-align: center;
+}
